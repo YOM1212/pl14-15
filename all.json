@@ -93,7 +93,7 @@
       "losses": 14,
       "goals-for": 46,
       "goals-against": 49,
-      "goals-dff": -3,
+      "goals-dff": "-3",
       "points": 56
     },
     {
@@ -117,7 +117,7 @@
       "losses": 16,
       "goals-for": 47,
       "goals-against": 51,
-      "goals-dff": -4,
+      "goals-dff": "-4",
       "points": 48
     },
     {
@@ -129,7 +129,7 @@
       "losses": 15,
       "goals-for": 48,
       "goals-against": 50,
-      "goals-dff": -2,
+      "goals-dff": "-2",
       "points": 47
     },
     {
@@ -141,7 +141,7 @@
       "losses": 15,
       "goals-for": 44,
       "goals-against": 47,
-      "goals-dff": -3,
+      "goals-dff": "-3",
       "points": 47
     },
     {
@@ -153,7 +153,7 @@
       "losses": 16,
       "goals-for": 38,
       "goals-against": 51,
-      "goals-dff": -13,
+      "goals-dff": "-13",
       "points": 44
     },
     {
@@ -165,7 +165,7 @@
       "losses": 19,
       "goals-for": 46,
       "goals-against": 55,
-      "goals-dff": -9,
+      "goals-dff": "-9",
       "points": 41
     },
     {
@@ -177,7 +177,7 @@
       "losses": 19,
       "goals-for": 40,
       "goals-against": 63,
-      "goals-dff": -23,
+      "goals-dff": "-23",
       "points": 39
     },
     {
@@ -189,7 +189,7 @@
       "losses": 14,
       "goals-for": 31,
       "goals-against": 53,
-      "goals-dff": -22,
+      "goals-dff": "-22",
       "points": 38
     },
     {
@@ -201,7 +201,7 @@
       "losses": 20,
       "goals-for": 31,
       "goals-against": 57,
-      "goals-dff": -26,
+      "goals-dff": "-26",
       "points": 38
     },
     {
@@ -213,7 +213,7 @@
       "losses": 19,
       "goals-for": 33,
       "goals-against": 51,
-      "goals-dff": -18,
+      "goals-dff": "-18",
       "points": 35
     },
     {
@@ -225,7 +225,7 @@
       "losses": 19,
       "goals-for": 28,
       "goals-against": 53,
-      "goals-dff": -25,
+      "goals-dff": "-25",
       "points": 33
     },
     {
@@ -237,7 +237,7 @@
       "losses": 24,
       "goals-for": 42,
       "goals-against": 73,
-      "goals-dff": -31,
+      "goals-dff": "-31",
       "points": 30
     }
    ]
