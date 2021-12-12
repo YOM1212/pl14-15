@@ -1,7 +1,7 @@
 {
   "records" :  [
     {
-      "rank": "1",
+      "rank": 1,
       "team": "Chelsea",
       "played": 38,
       "wins": 26,
@@ -13,7 +13,7 @@
       "points": 87
     },
     {
-      "rank": "2",
+      "rank": 2,
       "team": "Manchester City",
       "played": 38,
       "wins": 24,
@@ -25,7 +25,7 @@
       "points": 79
     },
     {
-      "rank": "3",
+      "rank": 3,
       "team": "Arsenal",
       "played": 38,
       "wins": 22,
@@ -37,7 +37,7 @@
       "points": 75
     },
     {
-      "rank": "4",
+      "rank": 4,
       "team": "Manchester United",
       "played": 38,
       "wins": 20,
@@ -49,7 +49,7 @@
       "points": 70
     },
     {
-      "rank": "5",
+      "rank": 5,
       "team": "Tottenham Hotspur",
       "played": 38,
       "wins": 19,
@@ -61,7 +61,7 @@
       "points": 64
     },
     {
-      "rank": "6",
+      "rank": 6,
       "team": "Liverpool",
       "played": 38,
       "wins": 18,
@@ -73,7 +73,7 @@
       "points": 62
     },
     {
-      "rank": "7",
+      "rank": 7,
       "team": "Southampton",
       "played": 38,
       "wins": 18,
@@ -85,7 +85,7 @@
       "points": 60
     },
     {
-      "rank": "8",
+      "rank": 8,
       "team": "Swansea City",
       "played": 38,
       "wins": 16,
@@ -97,7 +97,7 @@
       "points": 56
     },
     {
-      "rank": "9",
+      "rank": 9,
       "team": "Stoke City",
       "played": 38,
       "wins": 15,
@@ -109,7 +109,7 @@
       "points": 54
     },
     {
-      "rank": "10",
+      "rank": 10,
       "team": "Crystal Palace",
       "played": 38,
       "wins": 13,
@@ -121,7 +121,7 @@
       "points": 48
     },
     {
-      "rank": "11",
+      "rank": 11,
       "team": "Everton",
       "played": 38,
       "wins": 12,
@@ -133,7 +133,7 @@
       "points": 47
     },
     {
-      "rank": "12",
+      "rank": 12,
       "team": "West Ham United",
       "played": 38,
       "wins": 12,
@@ -145,7 +145,7 @@
       "points": 47
     },
     {
-      "rank": "13",
+      "rank": 13,
       "team": "West Bromwich Albion",
       "played": 38,
       "wins": 11,
@@ -157,7 +157,7 @@
       "points": 44
     },
     {
-      "rank": "14",
+      "rank": 14,
       "team": "Leicester City",
       "played": 38,
       "wins": 11,
@@ -169,7 +169,7 @@
       "points": 41
     },
     {
-      "rank": "15",
+      "rank": 15,
       "team": "Newcastle United",
       "played": 38,
       "wins": 10,
@@ -181,7 +181,7 @@
       "points": 39
     },
     {
-      "rank": "16",
+      "rank": 16,
       "team": "Sunderland",
       "played": 38,
       "wins": 7,
@@ -193,7 +193,7 @@
       "points": 38
     },
     {
-      "rank": "17",
+      "rank": 17,
       "team": "Aston Villa",
       "played": 38,
       "wins": 10,
@@ -205,7 +205,7 @@
       "points": 38
     },
     {
-      "rank": "18",
+      "rank": 18,
       "team": "Hull City",
       "played": 38,
       "wins": 8,
@@ -217,7 +217,7 @@
       "points": 35
     },
     {
-      "rank": "19",
+      "rank": 19,
       "team": "Burnley",
       "played": 38,
       "wins": 7,
@@ -229,7 +229,7 @@
       "points": 33
     },
     {
-      "rank": "20",
+      "rank": 20,
       "team": "Queens Park Rangers",
       "played": 38,
       "wins": 8,
